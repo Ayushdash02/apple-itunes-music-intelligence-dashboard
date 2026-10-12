@@ -66,7 +66,7 @@ The following screenshots showcase the key pages and data model of the Apple iTu
 
 The landing page introduces the dashboard and provides navigation to the analytical modules.
 
-![Home Page](DashboardScreenshots/HomePage.jpg)
+![Home Page]([DashboardScreenshots/HomePage.jpg](https://github.com/Ayushdash02/apple-itunes-music-intelligence-dashboard/blob/main/Dashboard%20Screenshots/Home%20Page.jpg))
 
 ### 📊 Executive Overview
 
