@@ -66,43 +66,43 @@ The following screenshots showcase the key pages and data model of the Apple iTu
 
 The landing page introduces the dashboard and provides navigation to the analytical modules.
 
-![Home Page](DashboardScreenshot/Home%20Page.jpg)
+![Home Page](DashboardScreenshots/HomePage.jpg)
 
 ### 📊 Executive Overview
 
 A high-level view of business performance and key analytical indicators.
 
-![Executive Overview Page](DashboardScreenshot/Executive%20Overview%20Page.jpg)
+![Executive Overview Page](DashboardScreenshots/ExecutiveOverviewPaage.jpg)
 
 ### 🎵 Music Revenue Intelligence
 
 Explores revenue distribution and music sales performance across relevant dimensions.
 
-![Music Revenue Intelligence Page](DashboardScreenshot/Music%20Revenue%20Intelligence%20Page.jpg)
+![Music Revenue Intelligence Page](DashboardScreenshots/MusicRevenueIntelligencePage.jpg)
 
 ### 👥 Customer Intelligence
 
 Examines customer spending, purchase behavior, and customer-level insights.
 
-![Customer Intelligence Page](DashboardScreenshot/Customer%20Intelligence%20Page.jpg)
+![Customer Intelligence Page](DashboardScreenshots/CustomerIntelligencePage.jpg)
 
 ### 🌍 Geographic & Employee Insights
 
 Presents geographic distribution and employee-related analytical views.
 
-![Geographic and Employee Insights Page](DashboardScreenshot/Geographic%20%26%20Employee%20Insights%20Page.jpg)
+![Geographic and Employee Insights Page](DashboardScreenshots/Geographic&EmployeeInsightsPage.jpg)
 
 ### 🔗 Relationship View
 
 Shows relationships between the underlying data tables, where applicable.
 
-![Relationship View](DashboardScreenshot/Relationship.jpg)
+![Relationship View](DashboardScreenshots/Relationship.png)
 
 ### 🤖 Data Model View
 
 Displays the model structure used to support data analysis and dashboard reporting.
 
-![Data Model View](DashboardScreenshot/Model%20View.jpg)
+![Data Model View](DashboardScreenshots/ModelView.jpg)
 
 ---
 
